@@ -1,0 +1,32 @@
+{
+  "name": "FitTracker - Exercise Tracker",
+  "short_name": "FitTracker",
+  "description": "A privacy-focused exercise tracking app",
+  "theme_color": "#3b82f6",
+  "background_color": "#ffffff",
+  "display": "standalone",
+  "scope": "/",
+  "start_url": "/",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/icon-192.svg",
+      "sizes": "192x192",
+      "type": "image/svg+xml",
+      "purpose": "maskable any"
+    },
+    {
+      "src": "/icon-512.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "maskable any"
+    }
+  ],
+  "categories": ["health", "fitness", "productivity"],
+  "screenshots": [],
+  "features": [
+    "Cross Platform",
+    "fast",
+    "simple"
+  ]
+}

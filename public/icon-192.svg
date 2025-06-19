@@ -1,0 +1,11 @@
+<svg width="192" height="192" viewBox="0 0 192 192" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="192" height="192" rx="24" fill="#3B82F6"/>
+  <g transform="translate(32,32)">
+    <circle cx="64" cy="48" r="20" fill="white" opacity="0.9"/>
+    <rect x="44" y="72" width="40" height="8" rx="4" fill="white" opacity="0.9"/>
+    <rect x="48" y="84" width="32" height="6" rx="3" fill="white" opacity="0.8"/>
+    <rect x="52" y="94" width="24" height="6" rx="3" fill="white" opacity="0.7"/>
+    <path d="M30 110 Q30 105 35 105 L93 105 Q98 105 98 110 L98 115 Q98 120 93 120 L35 120 Q30 120 30 115 Z" fill="white" opacity="0.9"/>
+    <text x="64" y="135" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="12" font-weight="bold">FitTracker</text>
+  </g>
+</svg>
